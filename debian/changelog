@@ -1,0 +1,7 @@
+activinspire-32bitdependsfor64bit-lliurex (2.17.68075-1) bionic; urgency=medium
+
+  * Initial release.
+  * Replaces libcurl3 by libcurl4
+  * Add dependency to gsettings-ubuntu-schema
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 03 Oct 2019 09:03:26 +0200
