@@ -1,4 +1,4 @@
-activinspire-32bitdependsfor64bit-lliurex (2.17.68075-1-lliurex1) bionic; urgency=medium
+activinspire-32bitdependsfor64bit-lliurex (2.17.68075-1-lliurex2) bionic; urgency=medium
 
   * Initial release.
   * Replaces libcurl3 by libcurl4
