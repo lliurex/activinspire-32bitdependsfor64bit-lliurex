@@ -2,7 +2,9 @@ Source: activinspire-32bitdependsfor64bit-lliurex
 Section: metapackages
 Priority: optional
 Maintainer: Promethean [https://support.prometheanworld.com/contact]
+Build-Depends: debhelper (>= 7.0)
 Standards-Version: 3.9.5
+
 
 Package: activinspire-32bitdependsfor64bit-lliurex
 Architecture: any
