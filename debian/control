@@ -9,7 +9,7 @@ Standards-Version: 3.9.5
 Package: activinspire-32bitdependsfor64bit-lliurex
 Architecture: any
 Essential: no
-Depends: libc6:i386, libncurses5:i386, libstdc++6:i386, libasound2:i386, libxmu6:i386, libgl1-mesa-glx:i386, libfontconfig1:i386, libxrender1:i386, libgstreamer1.0-0:i386, libgstreamer-plugins-base1.0-0:i386, gstreamer1.0-plugins-good:i386, gstreamer1.0-pulseaudio:i386, libjpeg62:i386, libnss3:i386, libgtk2.0-0:i386, gtk2-engines-murrine:i386, libcurl4:i386, libxtst6:i386, libasound2-plugins:i386
+Depends: libc6:i386, libncurses5:i386, libstdc++6:i386, libasound2:i386, libxmu6:i386, libgl1-mesa-glx:i386, libfontconfig1:i386, libxrender1:i386, libgstreamer1.0-0:i386, libgstreamer-plugins-base1.0-0:i386, gstreamer1.0-plugins-good:i386, gstreamer1.0-pulseaudio:i386, libjpeg62:i386, libnss3:i386, libgtk2.0-0:i386, gtk2-engines-murrine:i386, libcurl4:i386, libxtst6:i386, libasound2-plugins:i386, gsettings-ubuntu-schemas
 Provides: activinspire-32bitdependsfor64bit
 Conflicts: activinspire-32bitdependsfor64bit
 Replaces: activinspire-32bitdependsfor64bit
