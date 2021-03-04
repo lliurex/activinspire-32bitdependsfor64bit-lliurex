@@ -1,3 +1,9 @@
+activinspire-32bitdependsfor64bit-lliurex (2.17.68075-2-lliurex) UNRELEASED; urgency=medium
+
+  * Bionic port
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 04 Mar 2021 18:27:29 +0100
+
 activinspire-32bitdependsfor64bit-lliurex (2.17.68075-1-lliurex2) bionic; urgency=medium
 
   * Initial release.
