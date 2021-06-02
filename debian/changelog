@@ -1,6 +1,6 @@
-activinspire-32bitdependsfor64bit-lliurex (2.17.68075-2-lliurex) focal; urgency=medium
+activinspire-32bitdependsfor64bit-lliurex (2.17.68075-2-lliurex1) focal; urgency=medium
 
-  * Bionic port
+  * Focal release
 
  -- Juanma1980 <juanma1980@gmail.com>  Thu, 04 Mar 2021 18:27:29 +0100
 
